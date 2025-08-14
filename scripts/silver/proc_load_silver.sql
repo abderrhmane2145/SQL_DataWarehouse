@@ -1,6 +1,6 @@
 /*
 ===============================================================================
-Stored Procedure: Load Bronze Layer (Bronze -> Silver)
+Stored Procedure: Load Silver Layer (Bronze -> Silver)
 ===============================================================================
 Script Purpose:
     This stored procedure loads data into the 'silver' schema from schema 'bronez,
