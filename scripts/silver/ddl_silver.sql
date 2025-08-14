@@ -1,11 +1,11 @@
 /*
 ==========================================================================================
-DDL Scripts : Create Bronez Tables
+DDL Scripts : Create Silver Tables
 ==========================================================================================
 script Purpose : 
-  This script will create tables in Schema 'bronez',Dropping existing tables 
+  This script will create tables in Schema 'silver',Dropping existing tables 
   if they are already exist.
-  Run this script will re-define the DDL structure of 'bronez' tables.
+  Run this script will re-define the DDL structure of 'silver' tables.
 ==========================================================================================
 */
 
